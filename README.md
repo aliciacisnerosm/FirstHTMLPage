@@ -2,6 +2,8 @@
     This repository's purpose is to learn how to setup a new git repo
 </h1>
 
+<h3> Hi </h3>
+
 <ol>
     <li>
         git init
